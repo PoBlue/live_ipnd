@@ -46,8 +46,12 @@
 
 ### block 元素
 
-- 占用 **尽可能宽** 的宽度
+- 尽可能撑满容器
 - 例子：div, p
+
+```css
+display: block
+```
 
 ---
 
@@ -56,10 +60,19 @@
 - 占用 **内容一样** 的宽度
 - 例子：span, a, em, img
 
+```css
+display: inline
+```
+
 ---
 
 ### flex 元素
+
 - 设置宽度和高度
+
+```css
+display: flex
+```
 
 ---
 
