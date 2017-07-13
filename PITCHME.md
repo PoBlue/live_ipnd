@@ -2,13 +2,13 @@
 
 ---
 
-## 目的
+## 主题
 
-这次直播课，你将学到：
+能学到：
 
 - 如何将网页变成代码
 - 兼容不同的浏览器
-- 利用 display 属性进行布局
+- 设置 display 属性进行布局
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-如何避免:
+### 如何避免
 
 - 用 normal.css，覆盖默认的样式(预先知道哪些不同，再覆盖掉
 - 添加前缀来兼容实验属性
@@ -85,3 +85,6 @@ tag {
 ---
 
 ### 利用 display 做简单的布局
+
+- [例子](https://poblue.github.io/Portfolio-Site/)
+- [参考](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
