@@ -16,6 +16,8 @@
 
 ![Dom tree](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTct3PwPsbZ1T72NVjpRZWo-QOtmkeRXHTL9Iww7nVUiDlR5ZROv1VIAhP9)
 
+---
+
 ## 思考方式
 
 - 自上向下
@@ -25,8 +27,11 @@
 
 ## 兼容浏览器
 
+---
 
 ### Safari 和 Chrome 的对比
+
+---
 
 ### 如何避免
 1. 用 normal.css，覆盖默认的样式(预先知道哪些不同，再覆盖掉
@@ -40,19 +45,21 @@
 ---
 
 ### block 元素
-	- 占用 **尽可能宽** 的宽度
-	- 例子：div, p
+
+- 占用 **尽可能宽** 的宽度
+- 例子：div, p
 
 ---
 
 ### inline 元素
-	- 占用 **内容一样** 的宽度
-	- 例子：span, a, em, img
+
+- 占用 **内容一样** 的宽度
+- 例子：span, a, em, img
 
 ---
 
 ### flex 元素
-	- 设置宽度和高度
+- 设置宽度和高度
 
 ---
 
