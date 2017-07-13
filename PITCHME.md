@@ -51,7 +51,9 @@
 - 例子：div, p
 
 ```css
-display: block
+tag {
+    display: block
+}
 ```
 
 ---
@@ -62,7 +64,10 @@ display: block
 - 例子：span, a, em, img
 
 ```css
-display: inline
+tag {
+    display: inline
+}
+
 ```
 
 ---
@@ -72,7 +77,9 @@ display: inline
 - 设置宽度和高度
 
 ```css
-display: flex
+tag {
+    display: flex
+}
 ```
 
 ---
