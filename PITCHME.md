@@ -2,9 +2,7 @@
 
 ---
 
-## 目的
-
-这次直播课，你将学到：
+## 主题
 
 - 如何将脑中所想的变成代码
 - 兼容不同的浏览器
@@ -23,13 +21,6 @@
 ## HTML 树 
 
 ![Dom tree](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTct3PwPsbZ1T72NVjpRZWo-QOtmkeRXHTL9Iww7nVUiDlR5ZROv1VIAhP9)
-
----
-
-## 思考方式
-
-- 自上向下
-- 自下向上
 
 ---
 
@@ -94,4 +85,5 @@ tag {
 
 ### 利用 display 做简单的布局
 
+- [例子](https://poblue.github.io/Portfolio-Site/)
 - [参考](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
