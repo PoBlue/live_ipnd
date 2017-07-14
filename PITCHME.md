@@ -2,13 +2,23 @@
 
 ---
 
-## 主题 (能学到)
+## 目的
 
-- 如何将网页变成代码
+这次直播课，你将学到：
+
+- 如何将脑中所想的变成代码
 - 兼容不同的浏览器
-- 设置 display 属性进行布局
+- 利用 display 属性进行布局
 
 ---
+
+## 步骤
+
+1. 画出草稿
+2. 写出 HTML 树
+3. 变成一份代码
+
+—--
 
 ## HTML 树 
 
@@ -31,7 +41,7 @@
 
 ---
 
-### 如何避免
+如何避免:
 
 - 用 normal.css，覆盖默认的样式(预先知道哪些不同，再覆盖掉
 - 添加前缀来兼容实验属性
@@ -50,7 +60,7 @@
 
 ```css
 tag {
-    display: block
+	display: block
 }
 ```
 
@@ -63,7 +73,7 @@ tag {
 
 ```css
 tag {
-    display: inline
+	display: inline
 }
 
 ```
@@ -76,7 +86,7 @@ tag {
 
 ```css
 tag {
-    display: flex
+	display: flex
 }
 ```
 
@@ -84,5 +94,4 @@ tag {
 
 ### 利用 display 做简单的布局
 
-- [例子](https://poblue.github.io/Portfolio-Site/)
 - [参考](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
