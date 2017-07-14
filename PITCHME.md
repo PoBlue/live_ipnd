@@ -35,8 +35,7 @@
 如何避免:
 
 - 用 normal.css，覆盖默认的样式(预先知道哪些不同，再覆盖掉
-- 添加前缀来兼容实验属性
-- 更多
+- [更多](https://www.google.co.jp/amp/s/surefirewebservices.com/5-css-tricks-to-avoid-cross-browser-issues/amp/)
 
 ---
 
